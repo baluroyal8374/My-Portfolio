@@ -1,0 +1,4 @@
+[build]
+  base = "My-Portfolio-main/My-Portfolio-main/pv-balaji-portfolio-starter/pv-balaji-portfolio"
+  command = "npm run build"
+  publish = ".next"
